@@ -43,3 +43,30 @@ This endpoint only works if no admin exists.
 - CCTV video analysis with timestamps
 - Role-based authentication
 - Results dashboard
+
+## Screenshots
+
+<details>
+<summary>Click to view screenshots</summary>
+
+![Screenshot 1](screenshots/Screenshot%202026-03-17%20093405.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-03-17%20094803.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-03-17%20095042.png)
+
+![Screenshot 4](screenshots/Screenshot%202026-03-17%20095218.png)
+
+![Screenshot 5](screenshots/Screenshot%202026-03-17%20095603.png)
+
+![Screenshot 6](screenshots/Screenshot%202026-03-17%20130556.png)
+
+![Screenshot 7](screenshots/Screenshot%202026-03-17%20130730.png)
+
+![Screenshot 8](screenshots/Screenshot%202026-03-17%20130858.png)
+
+![Screenshot 9](screenshots/Screenshot%202026-03-25%20035709.png)
+
+![Screenshot 10](screenshots/Screenshot%202026-03-25%20035948.png)
+
+</details>
