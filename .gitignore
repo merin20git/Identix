@@ -1,0 +1,38 @@
+# Dependencies
+/frontend/node_modules/
+/backend/venv/
+/backend/env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Secrets
+.env
+.env.local
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# App specific
+/backend/data/
+/backend/uploads/
+/backend/frames/
+/backend/missing/
+/backend/criminals/
